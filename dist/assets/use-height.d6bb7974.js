@@ -1,0 +1,1 @@
+import{S as r,G as u}from"./index.f0899187.js";import{r as a,j as h,n as s}from"./index.1d9da499.js";const f=(i,n)=>{const o=a(),e=()=>{o.value=u(i).height};return h(()=>{if(s(e),n)for(let t=1;t<=3;t++)setTimeout(e,100*t)}),r(()=>s(e)),o};export{f as u};
